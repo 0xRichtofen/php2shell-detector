@@ -15,7 +15,7 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
-VERSION = "3.1.0"
+VERSION = "1.0"
 AUTHOR = "0xRichtofen"
 FIXES = {"8.2": 35, "8.3": 36, "8.4": 27, "8.5": 12}
 CVES = ("CVE-2026-109618", "CVE-2026-109619")
