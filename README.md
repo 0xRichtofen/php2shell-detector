@@ -27,7 +27,7 @@ It is designed for authorized security assessments and bug bounty reconnaissance
 ## Installation
 
 ```bash
-git clone https://github.com/ToxicRootVip/php2shell-detector.git
+git clone https://github.com/0xRichtofen/php2shell-detector.git
 cd richtofen-php2shell-detector
 python3 --version
 ```
